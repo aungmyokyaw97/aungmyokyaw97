@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/aungmyokyaw97/aungmyokyaw97/blob/main/img.gif?raw=true"  />
+  <img height="150" width="150" src="https://github.com/aungmyokyaw97/aungmyokyaw97/blob/main/img.gif?raw=true"  />
 </div>
 
 ###
