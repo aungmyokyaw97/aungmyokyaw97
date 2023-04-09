@@ -29,7 +29,9 @@
 
 ###
 
-<p align="left">I am working as a Backend Developer with over 5 years 🐮 of experience designing, developing, and maintaining complex backend systems. In my current role, I am responsible for leading 👼 a team of developers and ensuring the seamless integration of our backend systems with our front-end applications. I am proficient in several programming languages :trollface: and have a deep understanding of databases and APIs. Additionally, I have experience with agile development methodologies :cyclone: and have successfully managed several large-scale projects from conception to delivery :clap:.<br><br>
+/* <p align="left">I am working as a Backend Developer with over 5 years 🐮 of experience designing, developing, and maintaining complex backend systems. In my current role, I am responsible for leading 👼 a team of developers and ensuring the seamless integration of our backend systems with our front-end applications. I am proficient in several programming languages :trollface: and have a deep understanding of databases and APIs. Additionally, I have experience with agile development methodologies :cyclone: and have successfully managed several large-scale projects from conception to delivery :clap:.
+*/
+<br><br>
 
 - 🔭 I’m working as a Senior Backend Developer.<br>
 - 📚 I am currently expanding my skill set by learning NestJS and ReactJS.<br>
