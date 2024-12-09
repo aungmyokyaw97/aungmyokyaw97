@@ -26,7 +26,7 @@
 ###
 
 - 🔭 I’m working as a Senior Backend Developer.<br>
-- 📚 I am currently expanding my skill set by learning NestJS and ReactJS.<br>
+- 📚 I am currently expanding my skill set by learning Golang.<br>
 - ⚡  When I am free, I mostly watch YouTube videos and read about new technology. I also enjoy listening to music, and being in quiet surroundings is my favorite way to relax.<br>
 </p>
 
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
