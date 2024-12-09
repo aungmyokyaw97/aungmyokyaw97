@@ -25,7 +25,7 @@
 
 ###
 
-- 🔭 I’m working as a Senior Backend Developer.<br>
+- 🔭 I’m working as a Senior PHP Backend Developer.<br>
 - 📚 I am currently expanding my skill set by learning Golang.<br>
 - ⚡  When I am free, I mostly watch YouTube videos and read about new technology. I also enjoy listening to music, and being in quiet surroundings is my favorite way to relax.<br>
 </p>
