@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" width="150" src="https://github.com/aungmyokyaw97/aungmyokyaw97/blob/main/img.gif?raw=true"  />
+  <!-- <img height="150" width="150" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"  /> -->
+  <img height="150" width="250" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"  />
 </div>
 
 ###
@@ -20,12 +21,12 @@
 </div>
 
 ###
-
-<h1 align="center">Hi there 👋</h1>
+<br>
+<h1 align="center"> Hi there... <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></h1>
 
 ###
 
-- 🔭 I’m working as a Senior Backend Developer.<br>
+- 🔭 I’m working as a Backend Developer.<br>
 - 📚 I am currently expanding my skill set by learning Golang.<br>
 - ⚡  When I am free, I mostly watch YouTube videos and read about new technology. I also enjoy listening to music, and being in quiet surroundings is my favorite way to relax.<br>
 </p>
@@ -61,13 +62,18 @@
 </div>
 
 ###
+<br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aungmyokyaw97&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amk" />
+</p>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
+-->
 ###
 
 <!--
